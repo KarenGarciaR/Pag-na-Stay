@@ -1,0 +1,23 @@
+body{
+    /*Color de fondo */
+    background-color: brown;
+    /*Color de las Letras*/
+    color:rgb(110, 150, 192);
+    font-family: 'Oswald', sans-serif;
+}
+
+p{
+    color: rgb(223, 100, 168);
+}
+/*Para agregar clase, ponemos un punto antes del nombre*/
+.titulo{
+    color: rgb(235, 69, 163);
+}
+/*Si no lleva punto, afecta a todos los elementos*/
+img{
+    width: 500px;
+   
+}
+.img2{
+    width: 1000px;
+}
